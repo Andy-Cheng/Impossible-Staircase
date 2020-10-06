@@ -223,7 +223,7 @@ public class PlatformTuner : MonoBehaviour
         //ElevatorStopHeight = ElevatorBottom + 0.2f;
         Debug.Log($"Bottom: {ElevatorBottom}, Stop height: {ElevatorStopHeight}");
 
-        LevelLoader.instance.Initialize(ElevatorTop - ElevatorBottom + HeightOffset);
+        //LevelLoader.instance.Initialize(ElevatorTop - ElevatorBottom + HeightOffset);
     }
 
 
