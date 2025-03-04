@@ -4,6 +4,8 @@ Source code for the paper: Impossible Staircase: Vertically Real Walking in an I
 https://ieeexplore.ieee.org/document/9417791
 
 
+Demo: https://youtu.be/7hb0TJvDrkY?si=GQ45wsX1cayOv-aw
+
 Please cite it if you find it helpful!
 ```
 @INPROCEEDINGS{9417791,
