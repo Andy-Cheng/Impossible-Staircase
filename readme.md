@@ -26,5 +26,3 @@ Please cite it if you find it helpful!
 ## Uplast: Main Unity project including 
 - Application
 - Technical Evaluation 
-
-## Aruino: Arduino codes
